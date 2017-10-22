@@ -101,15 +101,15 @@ public class PanelConsultaTipoMoneda extends JPanel implements ActionListener
         etiquetaTitulo = new JLabel( "Tipo moneda" );
         etiquetaTitulo.setForeground( new Color( 0, 128, 0 ) );
 
-        ImageIcon galeon = new ImageIcon( "./data/galeon.png" );
+        ImageIcon galeon = new ImageIcon( "./data/Galeon.png" );
         botonGaleon = new JToggleButton( galeon );
         botonGaleon.setToolTipText( "Galeón" );
 
-        ImageIcon knut = new ImageIcon( "./data/knut.png" );
+        ImageIcon knut = new ImageIcon( "./data/Knut.png" );
         botonKnut = new JToggleButton( knut );
         botonKnut.setToolTipText( "Knut" );
 
-        ImageIcon sicklet = new ImageIcon( "./data/sicklet.png" );
+        ImageIcon sicklet = new ImageIcon( "./data/Sicklet.png" );
         botonSicklet = new JToggleButton( sicklet );
         botonSicklet.setToolTipText( "Sicklet" );
 
