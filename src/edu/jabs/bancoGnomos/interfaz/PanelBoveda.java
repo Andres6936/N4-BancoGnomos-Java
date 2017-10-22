@@ -150,7 +150,7 @@ public class PanelBoveda extends JPanel implements ActionListener
         add( botonConsultarCantidadTipoMoneda, gbc );
 
         // Panel con las llaves
-        ImageIcon llave = new ImageIcon( "./data/llave.png" );
+        ImageIcon llave = new ImageIcon( "./data/Llave.png" );
         JPanel panelLllaves = new JPanel( );
         panelLllaves.setOpaque( false );
         etiquetaLlave = new JLabel( llave );
@@ -218,7 +218,7 @@ public class PanelBoveda extends JPanel implements ActionListener
      */
     public void paintComponent( Graphics g )
     {
-        ImageIcon icon = new ImageIcon( "./data/pergamino.png" );
+        ImageIcon icon = new ImageIcon( "./data/Pergamino.png" );
         g.drawImage( icon.getImage( ), 0, 0, null );
         setOpaque( false );
         super.paintComponent( g );
