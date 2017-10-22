@@ -91,7 +91,7 @@ public class InterfazBancoGnomos extends JFrame
 
         // Crea la clase principal
         bancoGnomos = new BancoGnomos( );
-        String archivo = "./data/bovedas.txt";
+        String archivo = "./data/Bovedas.txt";
 
         try
         {
@@ -384,7 +384,7 @@ public class InterfazBancoGnomos extends JFrame
 
     /**
      * Este método ejecuta la aplicación, creando una nueva interfaz.
-     * @param args. Argumentos del llamado. No se requiere ninguno.
+     * @param args Argumentos del llamado. No se requiere ninguno.
      */
     public static void main( String[] args )
     {
