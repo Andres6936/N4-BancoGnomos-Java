@@ -1,0 +1,84 @@
+#---------------------------------------------------------
+# Bóvedas existentes en el banco
+#---------------------------------------------------------
+total.bovedas=10
+
+boveda0.llave=1111
+boveda0.cantidadKnuts=500
+boveda0.cantidadSicklets=600
+boveda0.cantidadGaleones=100
+boveda0.nombreCliente=Cenicienta
+boveda0.nombreBoveda=Boveda 1
+boveda0.tipoBoveda=PRIMARIA
+
+boveda1.llave=1112
+boveda1.cantidadKnuts=50
+boveda1.cantidadSicklets=50
+boveda1.cantidadGaleones=100
+boveda1.nombreCliente=Harry Potter
+boveda1.nombreBoveda= Boveda 2
+boveda1.tipoBoveda=TERCIARIA
+
+boveda2.llave=1113
+boveda2.cantidadKnuts=200
+boveda2.cantidadSicklets=500
+boveda2.cantidadGaleones=300
+boveda2.nombreCliente=la bella durmiente
+boveda2.nombreBoveda=Boveda 3
+boveda2.tipoBoveda=TERCIARIA
+
+boveda3.llave=1114
+boveda3.cantidadKnuts=650
+boveda3.cantidadSicklets=700
+boveda3.cantidadGaleones=200
+boveda3.nombreCliente=Aladdin
+boveda3.nombreBoveda=Boveda 4
+boveda3.tipoBoveda=SECUNDARIA
+
+boveda4.llave=1115
+boveda4.cantidadKnuts=1000
+boveda4.cantidadSicklets=1000
+boveda4.cantidadGaleones=1000
+boveda4.nombreCliente=Mulan
+boveda4.nombreBoveda=Boveda 5
+boveda4.tipoBoveda=PRIMARIA
+
+boveda5.llave=1116
+boveda5.cantidadKnuts=600
+boveda5.cantidadSicklets=600
+boveda5.cantidadGaleones=150
+boveda5.nombreCliente=Blanca Nieves
+boveda5.nombreBoveda=Boveda 6
+boveda5.tipoBoveda=SECUNDARIA
+
+boveda6.llave=1117
+boveda6.cantidadKnuts=50
+boveda6.cantidadSicklets=25
+boveda6.cantidadGaleones=25
+boveda6.nombreCliente=Rey Arturo
+boveda6.nombreBoveda= Boveda 10
+boveda6.tipoBoveda=TERCIARIA
+
+boveda7.llave=1118
+boveda7.cantidadKnuts=700
+boveda7.cantidadSicklets=700
+boveda7.cantidadGaleones=0
+boveda7.nombreCliente=Jafar
+boveda7.nombreBoveda=Boveda 7
+boveda7.tipoBoveda=SECUNDARIA
+
+boveda8.llave=1119
+boveda8.cantidadKnuts=500
+boveda8.cantidadSicklets=2000
+boveda8.cantidadGaleones=4000
+boveda8.nombreCliente=Ursula
+boveda8.nombreBoveda=Boveda 8
+boveda8.tipoBoveda=PRIMARIA
+
+boveda9.llave=1120
+boveda9.cantidadKnuts=700
+boveda9.cantidadSicklets=25
+boveda9.cantidadGaleones=10
+boveda9.nombreCliente=Simbad
+boveda9.nombreBoveda=Boveda 9
+boveda9.tipoBoveda=TERCIARIA
