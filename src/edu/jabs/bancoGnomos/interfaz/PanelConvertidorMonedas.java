@@ -143,15 +143,15 @@ public class PanelConvertidorMonedas extends JPanel implements ActionListener
         etiquetaTituloOrigen = new JLabel( "Moneda origen" );
         etiquetaTituloOrigen.setForeground( new Color( 0, 128, 0 ) );
 
-        ImageIcon galeon = new ImageIcon( "./data/galeon.png" );
+        ImageIcon galeon = new ImageIcon( "./data/Galeon.png" );
         botonGaleonOrigen = new JToggleButton( galeon );
         botonGaleonOrigen.setToolTipText( "Galeón" );
 
-        ImageIcon knut = new ImageIcon( "./data/knut.png" );
+        ImageIcon knut = new ImageIcon( "./data/Knut.png" );
         botonKnutOrigen = new JToggleButton( knut );
         botonKnutOrigen.setToolTipText( "Knut" );
 
-        ImageIcon sicklet = new ImageIcon( "./data/sicklet.png" );
+        ImageIcon sicklet = new ImageIcon( "./data/Sicklet.png" );
         botonSickletOrigen = new JToggleButton( sicklet );
         botonSickletOrigen.setToolTipText( "Sicklet" );
 
