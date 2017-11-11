@@ -1,0 +1,44 @@
+#---------------------------------------------------------
+# Bóvedas existentes en el banco
+#---------------------------------------------------------
+total.bovedas=5
+
+boveda0.llave=2220
+boveda0.cantidadKnuts=50
+boveda0.cantidadSicklets=50
+boveda0.cantidadGaleones=100
+boveda0.nombreCliente=Harry Potter
+boveda0.nombreBoveda= Boveda 1
+boveda0.tipoBoveda=TERCIARIA
+
+boveda1.llave=2221
+boveda1.cantidadKnuts=200
+boveda1.cantidadSicklets=500
+boveda1.cantidadGaleones=300
+boveda1.nombreCliente=la bella durmiente
+boveda1.nombreBoveda=Boveda 2
+boveda1.tipoBoveda=TERCIARIA
+
+boveda2.llave=2222
+boveda2.cantidadKnuts=1000
+boveda2.cantidadSicklets=1000
+boveda2.cantidadGaleones=1000
+boveda2.nombreCliente=Mulan
+boveda2.nombreBoveda=Boveda 3
+boveda2.tipoBoveda=PRIMARIA
+
+boveda3.llave=2223
+boveda3.cantidadKnuts=600
+boveda3.cantidadSicklets=600
+boveda3.cantidadGaleones=150
+boveda3.nombreCliente=Blanca Nieves
+boveda3.nombreBoveda=Boveda 4
+boveda3.tipoBoveda=SECUNDARIA
+
+boveda4.llave=2224
+boveda4.cantidadKnuts=700
+boveda4.cantidadSicklets=25
+boveda4.cantidadGaleones=10
+boveda4.nombreCliente=Simbad
+boveda4.nombreBoveda=Boveda 5
+boveda4.tipoBoveda=TERCIARIA
