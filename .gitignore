@@ -78,3 +78,6 @@ fabric.properties
 
 # Archivos generados por Intellij
 /N4-BancoGnomos-Java.iml
+
+# Ignorados
+!/lib/JUnit.jar
